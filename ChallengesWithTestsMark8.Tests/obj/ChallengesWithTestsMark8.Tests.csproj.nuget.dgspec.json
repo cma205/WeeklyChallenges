@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/cm205/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/ChallengesWithTestsMark8.Tests.csproj": {}
+    "/Users/cm205/Desktop/ok/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/ChallengesWithTestsMark8.Tests.csproj": {}
   },
   "projects": {
-    "/Users/cm205/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/ChallengesWithTestsMark8.Tests.csproj": {
+    "/Users/cm205/Desktop/ok/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/ChallengesWithTestsMark8.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/cm205/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/ChallengesWithTestsMark8.Tests.csproj",
+        "projectUniqueName": "/Users/cm205/Desktop/ok/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/ChallengesWithTestsMark8.Tests.csproj",
         "projectName": "ChallengesWithTestsMark8.Tests",
-        "projectPath": "/Users/cm205/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/ChallengesWithTestsMark8.Tests.csproj",
+        "projectPath": "/Users/cm205/Desktop/ok/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/ChallengesWithTestsMark8.Tests.csproj",
         "packagesPath": "/Users/cm205/.nuget/packages/",
-        "outputPath": "/Users/cm205/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/",
+        "outputPath": "/Users/cm205/Desktop/ok/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/cm205/.config/NuGet/NuGet.Config"
@@ -25,8 +25,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "/Users/cm205/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj": {
-                "projectPath": "/Users/cm205/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj"
+              "/Users/cm205/Desktop/ok/repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj": {
+                "projectPath": "/Users/cm205/Desktop/ok/repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj"
               }
             }
           }
@@ -73,14 +73,14 @@
         }
       }
     },
-    "/Users/cm205/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj": {
+    "/Users/cm205/Desktop/ok/repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/cm205/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj",
+        "projectUniqueName": "/Users/cm205/Desktop/ok/repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj",
         "projectName": "ChallengesWithTestsMark8",
-        "projectPath": "/Users/cm205/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj",
+        "projectPath": "/Users/cm205/Desktop/ok/repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj",
         "packagesPath": "/Users/cm205/.nuget/packages/",
-        "outputPath": "/Users/cm205/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/",
+        "outputPath": "/Users/cm205/Desktop/ok/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/cm205/.config/NuGet/NuGet.Config"

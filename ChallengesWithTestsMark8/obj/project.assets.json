@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/cm205/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj",
+      "projectUniqueName": "/Users/cm205/Desktop/ok/repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj",
       "projectName": "ChallengesWithTestsMark8",
-      "projectPath": "/Users/cm205/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj",
+      "projectPath": "/Users/cm205/Desktop/ok/repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj",
       "packagesPath": "/Users/cm205/.nuget/packages/",
-      "outputPath": "/Users/cm205/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/",
+      "outputPath": "/Users/cm205/Desktop/ok/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/cm205/.config/NuGet/NuGet.Config"
